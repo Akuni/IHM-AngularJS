@@ -1,0 +1,40 @@
+{
+  "user":
+  {
+    "name": "SARROCHE Nicolas",
+    "status": "POLYTECH' student",
+    "email": "sn102953@etu.unice.fr",
+    "age":21,
+    "contacts":[
+      {
+        "mean": "E-mail",
+        "value": "sn102953@etu.unice.fr"
+      },
+      {
+        "mean": "Number",
+        "value": "0X.XX.XX.XX.XX"
+      },
+      {
+        "mean": "Mail",
+        "value": "1234 Some road FRANCE"
+      }
+    ]
+  },
+  "realisations":[
+    {
+      "title":"Island project",
+      "year": 2015,
+      "description": "Creation of a bot able to explore an unknown island and to find and collect a certain amount of resources"
+    },
+    {
+      "title":"Android application",
+      "year": 2014,
+      "description": "Creation of a game on android tablet. A question is send from server to android client. The user has to answer the question. If the answer is right, the next question location is send to the tablet."
+    },
+    {
+      "title":"DeViNT",
+      "year": 2015,
+      "description": "Creation of a game for blind people. The player is drop in a sound environment and has to find the end of the level."
+    }
+  ]
+}

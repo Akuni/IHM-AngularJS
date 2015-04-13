@@ -1,0 +1,10 @@
+<h1>{{user.name}}</h1>
+<h3>{{user.age}} years old.</h3>
+<p>I'm actually a {{user.status}}.</p>
+<a href="mailto:{{user.email}}"><span class="glyphicon glyphicon-envelope"></span> Mail me !</a>
+<div class="row">
+  <div class="col-md-4" ng-repeat="contact in user.contacts">
+    <h4>{{contact.mean}}</h4>
+    <p>{{contact.value}}</p>
+  </div>
+</div>

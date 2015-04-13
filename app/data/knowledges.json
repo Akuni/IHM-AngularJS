@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Langages",
+    "skills": [
+      {
+        "name": "JAVA"
+      },
+      {
+        "name": "C"
+      },
+      {
+        "name": "PHP"
+      },
+      {
+        "name": "Javascript"
+      },
+      {
+        "name": "SQL"
+      }
+    ]
+  },
+  {
+    "title": "Softwares",
+    "skills": [
+      {
+        "name": "Intellij"
+      },
+      {
+        "name": "Eclipse"
+      },
+      {
+        "name": "git"
+      },
+      {
+        "name": "LighRoom"
+      }
+    ]
+  }
+]
